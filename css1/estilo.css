@@ -1,4 +1,11 @@
 .texto {
-  font-size: 14px;
-  color: rgba(145,44,0);
+  background: #d3d3d3;
+  font-size: 25px;
+  font-family: times new roman;
+  border: 15px solid black;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 75px;
+  border-bottom-left-radius: 75px;
+  border-bottom-right-radius: 20px;
+  padding: 0px 50px 0px 50px; 
 }
