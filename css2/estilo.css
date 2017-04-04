@@ -1,0 +1,33 @@
+body{
+  background-color: #cdebf5;
+  background-image: url(castelo.jpg);
+  background-size: 1000px 700px;
+  background-repeat: no-repeat;
+  background-position: center 0px;
+}
+
+.box{
+  background: rgba(255, 255, 255, 0.8);
+  width: 325px;
+  height: 275px;
+  line-height: 140%;
+  margin: 50px 150px;
+  padding: 10px 10px 0px 10px;
+  font-family: arial;
+  text-align: center;
+  border: 15px solid rgba(145, 110, 80, 0.8);
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: 2px 2px 5px, 2px 2px 5px inset;
+}
+
+.titulo{
+  font-weight: bold;
+  font-size: 30px
+}
+
+.texto{
+  font-size: 20px
+}
