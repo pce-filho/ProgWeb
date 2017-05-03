@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <div id="header">
+      Instituto de Computação
+    </div>
+    <button onclick="mudarEstilo()">Adicionar Estilos</button>
+    <button onclick="limparEstilo()">Limpar Estilo</button>
+    <script>
+    var div = document.getElementById("header");
+
+      function mudarEstilo() {
+        div.style.backgroundColor = "lightgrey";
+        div.style.color = "red";
+        div.style.fontSize = "32px";
+      }
+
+      function limparEstilo() {
+        div.style.backgroundColor = ""
+        div.style.color = "";
+        div.style.fontSize = "";
+      }
+    </script>
+  </body>
+</html>

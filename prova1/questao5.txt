@@ -1,0 +1,30 @@
+//histórico de commits:
+commit 84baaf4d0853ac409cc91123520754eff0adc6cb
+Author: Paulo Cezar de Queiroz Hermida Filho <pcqhf@icomp.ufam.edu.br>
+Date:   Wed May 3 16:22:59 2017 -0400
+
+    Questao 1
+
+commit 54a0fca56779e1842a5b1d0829b3c55b5d4648c4
+Author: Paulo Cezar de Queiroz Hermida Filho <pcqhf@icomp.ufam.edu.br>
+Date:   Wed May 3 15:25:00 2017 -0400
+
+    Exercicio js1
+
+commit 35588d6c50ea7d2772465d90ce9b917cd6aaace4
+Author: Paulo Cezar de Queiroz Hermida Filho <pcqhf@icomp.ufam.edu.br>
+Date:   Thu Apr 20 16:33:37 2017 -0400
+
+    exec pw
+
+commit 22350edf706b15e19a4be585300f8492234341f5
+Author: Paulo Cezar de Queiroz Hermida Filho <pcqhf@icomp.ufam.edu.br>
+Date:   Mon Apr 10 17:13:50 2017 -0400
+
+    exec pw
+
+//respostas questao 5
+
+a) São os arquivos que ainda estão em edição, e não foi realizado o commit para gravá-los no repositório local.
+b) O repositório local é onde os arquivos presentes no diretório de trabalho irão após o commit. O repositório remoto,
+é o que pode ser acessado por todos os colaboradores do mesmo.
