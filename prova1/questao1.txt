@@ -2,3 +2,6 @@ Linha 02: Tag <body> aparece antes da tag <head>.
 Linha 05: Tag <script>, ao invés de <style>, é utulizada como estilo embarcado de CSS.
 Linha 13: Tag <span> está em aberto, não possui intervalo definido dentro do código-fonte.
 Linha 19: Tag <style>, ao invés de <script>, é utilizda para código Javascript.
+
+Nota: 2.0
+Todos os erros foram reportados corretamente.

@@ -28,3 +28,6 @@ Date:   Mon Apr 10 17:13:50 2017 -0400
 a) São os arquivos que ainda estão em edição, e não foi realizado o commit para gravá-los no repositório local.
 b) O repositório local é onde os arquivos presentes no diretório de trabalho irão após o commit. O repositório remoto,
 é o que pode ser acessado por todos os colaboradores do mesmo.
+
+Nota: 2.0
+Logs e conceitos reportados corretamente.
