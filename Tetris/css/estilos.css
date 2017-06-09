@@ -1,0 +1,31 @@
+#proxima-peca{
+  border: solid black;
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  top: 100px;
+  left: 100px;
+}
+
+#tabuleiro{
+  border: solid black;
+  position: relative;
+  height: 500px;
+  width: 250px;
+  left: 500px;
+}
+
+#tabuleiro table{
+  height: 500px;
+  width: 250px;
+  font-size: 0;
+}
+
+#informacoes{
+  border: solid black;
+  position: absolute;
+  height: 50px;
+  width: 250px;
+  top: 550px;
+  left: 510px;
+}
